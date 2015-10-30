@@ -1,1 +1,0 @@
-!function(){function a(){return!!(navigator.getUserMedia||navigator.webkitGetUserMedia||navigator.mozGetUserMedia||navigator.msGetUserMedia)}console.log("camera?"),a?console.log("getUserMedia() is supported in your browser"):alert("getUserMedia() is not supported in your browser")}();
